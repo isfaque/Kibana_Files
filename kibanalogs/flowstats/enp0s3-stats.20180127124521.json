@@ -1,0 +1,1 @@
+{"stats":{"exportedFlowTotalCount":37563,"packetTotalCount":3837602,"droppedPacketTotalCount":0,"ignoredPacketTotalCount":109877,"expiredFragmentCount":0,"assembledFragmentCount":0,"flowTableFlushEvents":10918,"flowTablePeakCount":837,"exporterIPv4Address":"127.0.1.1","exportingProcessId":23,"meanFlowRate":0,"meanPacketRate":48,"exporterName":"myCollector"}}
